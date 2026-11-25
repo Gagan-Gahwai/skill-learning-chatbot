@@ -511,7 +511,7 @@ The chatbot may generate inaccurate responses. Always verify important informati
 AI Engineer Intern | Python | Machine Learning | Generative AI | RAG
 
 - GitHub: https://github.com/Gagan-Gahwai
-- LinkedIn: https://www.linkedin.com/in/gagan-gahawai/
+- LinkedIn: www.linkedin.com/in/gagan-gahawai-0b4164354
 
 If you find this project interesting, feel free to explore the repository and share your feedback.
 
